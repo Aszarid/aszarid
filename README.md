@@ -1,5 +1,4 @@
-
-# Hi! I'm Daniel/Aszarid
+<h1 align="center"><b>Hi! I'm Daniel/Aszarid </h1>
 
 # 🐧 About Me:
 An extroverted, imaginative, and creative person; a person who really likes Geek culture. Someone who always tries to see the positive side of life. With big dreams of becoming someone important and successful in the future, I always strive to improve myself and learn from my mistakes so I can grow every day. I am always eager to learn something new every day.
